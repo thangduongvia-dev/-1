@@ -1,0 +1,15 @@
+/* reset margin, padding */
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+
+}
+
+.anhbia {
+    border: solid red;
+    height: 200px;
+    width: 200px;
+    background-image: url(./mountainView.avif);
+    width: 100%;
+    height: 100%;
+}
